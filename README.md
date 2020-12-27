@@ -1,5 +1,5 @@
 <style>
-table th:first-of-type {
+#half {
     width: 50%;
 }
 table th:nth-of-type(2) {
@@ -24,8 +24,8 @@ Concepts Used:
 <image src="demo/FlipCardDemo.gif" width="200px">
 
 <table style="border: 2px solid #ddd;  border-collapse: collapse;margin-top: 20px" align="center">
-    <thead>
-        <th style="text-align:center">Demo Image </td>
+    <tr>
+        <th id="half">Demo Image </td>
         <th style="text-align:center">Description </td>
     </thead>
     <tr style="border: 2px solid #ddd;">
