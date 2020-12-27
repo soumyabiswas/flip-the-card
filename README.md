@@ -1,3 +1,11 @@
+<style>
+table th:first-of-type {
+    width: 50%;
+}
+table th:nth-of-type(2) {
+    width: 50%;
+}
+</style>
 # Flip Card
 
 Flip Card is a react native game built on Expo. It is a timed card memory game where user click the cards to see the image under the card and try to find the matching image underneath the other cards. Uncover two matching symbols at once to eliminate them from the game. Eliminate all cards as fast as you can to win the game.
@@ -17,11 +25,11 @@ Concepts Used:
 
 <table style="border: 2px solid #ddd;  border-collapse: collapse;margin-top: 20px" align="center">
     <thead>
-        <td style="text-align:center">Demo Image </td>
-        <td style="text-align:center">Description </td>
+        <th style="text-align:center">Demo Image </td>
+        <th style="text-align:center">Description </td>
     </thead>
     <tr style="border: 2px solid #ddd;">
-        <td style="min-width:230px">
+        <td>
             <h2>Select category</h6>
             <image src="demo/GameCategories.jpeg" width="200px">
         </td>
