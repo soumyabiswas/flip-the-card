@@ -17,12 +17,12 @@ Concepts Used:
 
 <table style="border: 2px solid #ddd;  border-collapse: collapse;margin-top: 20px" align="center">
     <tr>
-        <th style="width: 200px">Demo Image </td>
-        <th style="text-align:center">Description </td>
+        <th style="width: 200px">Demo Image </th>
+        <th style="text-align:center">Description </th>
     </tr>
     <tr style="border: 2px solid #ddd;">
         <td>
-            <image src="demo/GameCategories.jpeg" width="200px">
+            <image src="demo/GameCategories.jpeg" width=500>
         </td>
         <td style="width="40%">
             <h2>Select category</h2>
