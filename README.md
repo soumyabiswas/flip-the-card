@@ -31,7 +31,7 @@ Concepts Used:
     </tr>
      <tr style="border: 2px solid #ddd;">
         <td style="display:flex; flex-direction:column;margin-bottom: 10px">
-            <image src="demo/GameCategoriesSaved.jpeg" width="200px">
+            <image src="demo/GameCategoriesSaved.jpeg" width=500>
         </td>
         <td>
             <h2>Select category (ii)</h2>
@@ -40,7 +40,7 @@ Concepts Used:
     </tr>
      <tr style="border: 2px solid #ddd;">
         <td style="display:flex; flex-direction:column;margin-bottom: 10px">
-            <image src="demo/Levels.jpeg" width="200px">
+            <image src="demo/Levels.jpeg" width=500>
         </td>
         <td>
             <h2>Select Level</h2>
@@ -53,7 +53,7 @@ Concepts Used:
     </tr>
      <tr style="border: 2px solid #ddd;">
         <td style="display:flex; flex-direction:column;margin-bottom: 10px">
-            <image src="demo/Game.jpeg" width="200px">
+            <image src="demo/Game.jpeg" width=500>
         </td>
         <td>
             <h2>Game screen</h2>
@@ -62,7 +62,7 @@ Concepts Used:
     </tr>
     <tr style="border: 2px solid #ddd;">
         <td style="display:flex; flex-direction:column;margin-bottom: 10px">
-            <image src="demo/PauseExit.jpeg" width="200px">
+            <image src="demo/PauseExit.jpeg" width=500>
         </td>
         <td>
         <h2>Game screen</h2>
@@ -71,7 +71,7 @@ Concepts Used:
     </tr>
     <tr style="border: 2px solid #ddd;">
         <td style="display:flex; flex-direction:column;margin-bottom: 10px">
-            <image src="demo/Stats.jpeg" width="200px">
+            <image src="demo/Stats.jpeg" width=500>
         </td>
         <td>
         <h2>Stats screen</h2>
@@ -80,7 +80,7 @@ Concepts Used:
     </tr>
     <tr style="border: 2px solid #ddd;">
         <td style="display:flex; flex-direction:column;margin-bottom: 10px">
-            <image src="demo/About.jpeg" width="200px">
+            <image src="demo/About.jpeg" width=500>
         </td>
         <td>
         <h2>About screen</h6>
