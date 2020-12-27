@@ -15,17 +15,17 @@ Concepts Used:
 ### Home screen
 <image src="demo/FlipCardDemo.gif" width="200px">
 
-<table style="border: 2px solid #ddd;  border-collapse: collapse;margin-top: 20px">
+<table style="border: 2px solid #ddd;  border-collapse: collapse;margin-top: 20px" align="center">
     <thead>
         <td style="text-align:center">Demo Image </td>
         <td style="text-align:center">Description </td>
     </thead>
     <tr style="border: 2px solid #ddd;">
-        <td style="display:flex; flex-direction:column;margin-bottom: 10px;">
+        <td style="min-width:230px">
             <h2>Select category</h6>
             <image src="demo/GameCategories.jpeg" width="200px">
         </td>
-        <td style="width: 60%">
+        <td style="width="40%">
             Users can select the category they want to play
         </td>
     </tr>
