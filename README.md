@@ -22,28 +22,28 @@ Concepts Used:
     </tr>
     <tr style="border: 2px solid #ddd;">
         <td>
-            <h2>Select category</h6>
             <image src="demo/GameCategories.jpeg" width="200px">
         </td>
         <td style="width="40%">
+            <h2>Select category</h2>
             Users can select the category they want to play
         </td>
     </tr>
      <tr style="border: 2px solid #ddd;">
         <td style="display:flex; flex-direction:column;margin-bottom: 10px">
-            <h2>Select category (ii)</h6>
             <image src="demo/GameCategoriesSaved.jpeg" width="200px">
         </td>
         <td>
+            <h2>Select category (ii)</h2>
             This shows the categories of all games already played by the users. Blue indicates it was played previously, and gray indicated unplayed
         </td>
     </tr>
      <tr style="border: 2px solid #ddd;">
         <td style="display:flex; flex-direction:column;margin-bottom: 10px">
-            <h2>Select Level</h6>
             <image src="demo/Levels.jpeg" width="200px">
         </td>
         <td>
+            <h2>Select Level</h2>
             Users can select the category the level they want to play.
             <ul>
             <li>Easy has 8 pairs of cards to be matched</li>
@@ -53,37 +53,37 @@ Concepts Used:
     </tr>
      <tr style="border: 2px solid #ddd;">
         <td style="display:flex; flex-direction:column;margin-bottom: 10px">
-            <h2>Game screen</h6>
             <image src="demo/Game.jpeg" width="200px">
         </td>
         <td>
+            <h2>Game screen</h2>
             Easy level for category fruits, with timer running on the top left. On the top right, the user can mute or un-mute the background music. 
         </td>
     </tr>
     <tr style="border: 2px solid #ddd;">
         <td style="display:flex; flex-direction:column;margin-bottom: 10px">
-            <h2>Game screen</h6>
             <image src="demo/PauseExit.jpeg" width="200px">
         </td>
         <td>
+        <h2>Game screen</h2>
            Between the game, user can pause/resume the game or exit from there. 
         </td>
     </tr>
     <tr style="border: 2px solid #ddd;">
         <td style="display:flex; flex-direction:column;margin-bottom: 10px">
-            <h2>Stats screen</h6>
             <image src="demo/Stats.jpeg" width="200px">
         </td>
         <td>
+        <h2>Stats screen</h2>
           User can see the statistics of the games that were played previously. Average time taken to solve and best time to solve is shown level wise for all the categories.
         </td>
     </tr>
     <tr style="border: 2px solid #ddd;">
         <td style="display:flex; flex-direction:column;margin-bottom: 10px">
-            <h2>Stats screen</h6>
             <image src="demo/About.jpeg" width="200px">
         </td>
         <td>
+        <h2>About screen</h6>
           About the app.
         </td>
     </tr>
